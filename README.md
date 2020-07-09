@@ -1,6 +1,6 @@
 ### Hi there 👋🏻
 
-My name is Kayla and I'm a front-end React developer! I've worked professionally in the software industry for 3+ years now and I have a fine arts degree in video game design. I love the intersection of when code meets art to create interactive experiences. I am currently studying creative coding with THREE.js and GSAP 3 and am building out my new portfolio site with it. In the meantime, feel free to visit my very old and outdated site at www.kaylakremer.com. 
+My name is Kayla and I'm a front-end React developer! I've worked professionally in the software industry for 3+ years now and I have an formal fine arts education in videogame design. I love the intersection of when code meets art to create engaging, interactive, and accessible experiences with. I am currently studying creative coding with THREE.js and GSAP 3 and am building out my new portfolio site with it. In the meantime, feel free to visit my very old and outdated site at www.kaylakremer.com. 
 
 
 #### Fun facts <br />
