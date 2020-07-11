@@ -1,3 +1,5 @@
+![Kayla Kremer Logo](Kayla-Kremer-GitHub.png)
+
 ### Hi there 👋🏻
 
 My name is Kayla and I'm a front-end React developer! 👩🏼‍💻<br />
