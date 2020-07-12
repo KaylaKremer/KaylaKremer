@@ -1,4 +1,5 @@
-![Kayla Kremer Logo](Kayla-Kremer-GitHub.png)
+
+<img src="Kayla-Kremer-GitHub.png" width="100%">
 
 ### Hi there 👋🏻
 
