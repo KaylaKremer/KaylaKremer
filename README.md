@@ -1,5 +1,5 @@
 
-<img src="/KaylaKremer/KaylaKremer/raw/main/Kayla-Kremer-GitHub.png" width="100%">
+<img src="/KaylaKremer/KaylaKremer/raw/main/images/Kayla-Kremer-GitHub.png" width="100%">
 
 ### Hi there 👋🏻
 
