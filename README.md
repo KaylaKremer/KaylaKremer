@@ -4,9 +4,9 @@
 
 My name is Kayla and I'm a front-end React developer! 👩🏼‍💻<br />
 
-I've worked professionally in the software industry for 3+ years now and I have an formal fine arts education in videogame design. I love the intersection of where code meets art to create engaging, interactive, and accessible experiences with! 
+I've worked professionally in the software industry for 3+ years now and I have a formal fine arts education in videogame design. I love the intersection of where code meets art to create engaging, interactive, and accessible experiences with!
 
-### Learning
+### Learning 
 I am currently studying creative coding with THREE.js and GSAP 3 🎨
 
 ### Current Project
