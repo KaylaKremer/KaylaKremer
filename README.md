@@ -12,12 +12,16 @@ I am currently studying creative coding with THREE.js and GSAP 3 🎨
 ## Current Project
 My new portfolio site (WIP) 🔜 [kaylakremer.github.io](https://kaylakremer.github.io/#/)
 
-## Stats
-![KaylaKremer's github stats](https://github-readme-stats.kaylakremer.vercel.app/api?username=KaylaKremer&show_icons=true&title_color=d680ff&icon_color=fff&text_color=80b1ff&bg_color=151515)
-
 ## Connect with me
 🌐 [Portfolio](https://www.kaylakremer.com) <br />
 🔗 [LinkedIn](https://www.linkedin.com/in/kaylakremer/) <br />
 🐦 [Twitter](https://twitter.com/Kayla_Kremer) <br />
 📫 <a href="mailto:kremer.kayla@gmail.com">Email</a> 
 
+## Stats
+![KaylaKremer's github stats](https://github-readme-stats.kaylakremer.vercel.app/api?username=KaylaKremer&show_icons=true&title_color=d680ff&icon_color=fff&text_color=80b1ff&bg_color=151515) <br />
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=KaylaKremer.visitor-badge)
+![Followers](https://img.shields.io/github/followers/KaylaKremer)
+![Commit Activity](https://img.shields.io/github/commit-activity/w/KaylaKremer/kaylakremer.github.io)
+![Last Commit](https://img.shields.io/github/last-commit/KaylaKremer/kaylakremer.github.io)
