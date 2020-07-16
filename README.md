@@ -1,20 +1,22 @@
 [![Kayla Kremer Banner](https://github.com/KaylaKremer/KaylaKremer/blob/master/images/Kayla-Kremer-GitHub.png)](https://www.kaylakremer.com)
 
-## Hi there, <𝚌𝚘𝚍𝚎𝚛𝚜/> 👋🏻
+## Hi there, My name is <𝙺𝚊𝚢𝚕𝚊/> 👋🏻
 
-My name is Kayla and I'm a front-end React developer! 👩🏼‍💻<br />
+I'm a front-end developer who loves creative coding! 👩🏼‍💻<br />
 
 I've worked professionally in the software industry for 3+ years now and I have a formal fine arts education in videogame design. I love the intersection of where code meets art to create engaging, interactive, and accessible experiences with!
 
 ```javascript
 const Kayla = {
   pronouns: "she/her",
-  code: ["Javascript", "Ruby", "HTML", "CSS/SCSS"],
-  tools: ["React", "Redux", "TensorFlow.js", "THREE.js", "GSAP3"], 
+  job: "software engineer",
+  education: "videogame design",
+  favorites: ["React", "TensorFlow.js", "THREE.js", "GSAP3"], 
+  hobbies: ["videogames", "art", "traveling", "coding"]
 };
 ```
 
-## Tech Stack
+## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=%23ffffff) 
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3) 
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=%23ffffff) 
@@ -25,6 +27,7 @@ const Kayla = {
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-%23FF6F00?style=flat-square&logo=tensorflow&logoColor=%23ffffff) 
 ![Greensock](https://img.shields.io/badge/-Greensock-%2388CE02?style=flat-square&logo=greensock&logoColor=%23ffffff) 
 ![Node](https://img.shields.io/badge/-Node-%23339933?style=flat-square&logo=node.js&logoColor=%23ffffff) 
+<br />
 ![Ruby](https://img.shields.io/badge/-Ruby-%23CC342D?style=flat-square&logo=ruby) 
 ![Rails](https://img.shields.io/badge/-Rails-%23CC0000?style=flat-square&logo=rails) 
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint) 
@@ -37,20 +40,20 @@ const Kayla = {
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code) 
 
 
-## Learning 
-I am currently studying creative coding with THREE.js and GSAP 3 🎨
+## 📖 Learning 
+I am currently studying: creative coding with THREE.js and GSAP 3 🎨
 
-## Current Project
+## 💡 Current Project
 My new portfolio site (WIP) 🔜 [kaylakremer.github.io](https://kaylakremer.github.io/#/)
 
-## Connect with me
+## 🎯 Connect with me
 🌐 [Portfolio](https://www.kaylakremer.com) <br />
 🔗 [LinkedIn](https://www.linkedin.com/in/kaylakremer/) <br />
 🐦 [Twitter](https://twitter.com/Kayla_Kremer) <br />
 💬 [AMA](https://github.com/KaylaKremer/KaylaKremer/issues) <br />
 📫 <a href="mailto:kremer.kayla@gmail.com">Email</a> 
 
-## Stats
+## 📊 Stats
 ![KaylaKremer's github stats](https://github-readme-stats.kaylakremer.vercel.app/api?username=KaylaKremer&show_icons=true&title_color=d680ff&icon_color=fff&text_color=80b1ff&bg_color=151515) <br />
 
 [![HitCount](http://hits.dwyl.com/KaylaKremer/KaylaKremer.svg)](http://hits.dwyl.com/KaylaKremer/KaylaKremer)
