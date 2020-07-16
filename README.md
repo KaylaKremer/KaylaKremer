@@ -14,6 +14,27 @@ const Kayla = {
 };
 ```
 
+## Tech Stack
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=%23ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=%23ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=%23ffffff)
+![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=react&logoColor=%23ffffff)
+![Redux](https://img.shields.io/badge/-Redux-%23764ABC?style=flat-square&logo=redux)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-%23FF6F00?style=flat-square&logo=tensorflow&logoColor=%23ffffff)
+![Node](https://img.shields.io/badge/-Node-%23339933?style=flat-square&logo=node.js&logoColor=%23ffffff)
+<br />
+![Ruby](https://img.shields.io/badge/-Ruby-%23CC342D?style=flat-square&logo=ruby)
+![Rails](https://img.shields.io/badge/-Rails-%23CC0000?style=flat-square&logo=rails)
+![Greensock](https://img.shields.io/badge/-Greensock-%2388CE02?style=flat-square&logo=greensock&logoColor=%23ffffff)
+![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-%23FCA121?style=flat-square&logo=gitlab&logoColor=%23ffffff)
+![NPM](https://img.shields.io/badge/-NPM-%23CB3837?style=flat-square&logo=npm)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+
+
 ## Learning 
 I am currently studying creative coding with THREE.js and GSAP 3 🎨
 
