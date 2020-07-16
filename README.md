@@ -1,7 +1,6 @@
 [![Kayla Kremer Banner](https://github.com/KaylaKremer/KaylaKremer/blob/master/images/Kayla-Kremer-GitHub.png)](https://www.kaylakremer.com)
 
 ## Hi there, My name is <𝙺𝚊𝚢𝚕𝚊/> 👋🏻
-
 I'm a front-end developer who loves creative coding! 👩🏼‍💻<br />
 
 I've worked professionally in the software industry for 3+ years now and I have a formal fine arts education in videogame design. I love the intersection of where code meets art to create engaging, interactive, and accessible experiences with!
@@ -47,11 +46,11 @@ I am currently studying: creative coding with THREE.js and GSAP 3 🎨
 My new portfolio site (WIP) 🔜 [kaylakremer.github.io](https://kaylakremer.github.io/#/)
 
 ## 🎯 Connect with me
-🌐 [Portfolio](https://www.kaylakremer.com) <br />
-🔗 [LinkedIn](https://www.linkedin.com/in/kaylakremer/) <br />
-🐦 [Twitter](https://twitter.com/Kayla_Kremer) <br />
-💬 [AMA](https://github.com/KaylaKremer/KaylaKremer/issues) <br />
-📫 <a href="mailto:kremer.kayla@gmail.com">Email</a> 
+<a href="https://www.kaylakremer.com"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/web.png" width="64px" target="_blank" /></a> 
+<a href="https://www.linkedin.com/in/kaylakremer/"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/linkedin.png" width="64px" target="_blank" /></a> 
+<a href="ttps://twitter.com/Kayla_Kremer"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/twitter.png" width="64px" target="_blank" /></a> 
+<a href="mailto:kremer.kayla@gmail.com"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/email.png" width="64px" target="_blank" /></a> 
+<a href="https://github.com/KaylaKremer/KaylaKremer/issues"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/conversation.png" width="64px" target="_blank" /></a> 
 
 ## 📊 Stats
 ![KaylaKremer's github stats](https://github-readme-stats.kaylakremer.vercel.app/api?username=KaylaKremer&show_icons=true&title_color=d680ff&icon_color=fff&text_color=80b1ff&bg_color=151515) <br />
