@@ -50,11 +50,11 @@ const Kayla = {
 
 ## 🎨 Learning 
 **Creative coding with:** 
-<br /><br />
+<br />
 <img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/creative-coding.png" width="250px"/>
 
 **Re-learning Redux with:** 
-<br /><br />
+<br />
 <img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/redux-toolkit.png" width="230px"/>
 
 ## 🚀 Current Projects
@@ -72,7 +72,7 @@ My new portfolio site (WIP) 🔜 [kaylakremer.github.io](https://kaylakremer.git
 
 ## 📊 Stats
 ![KaylaKremer's github stats](https://github-readme-stats.kaylakremer.vercel.app/api?username=KaylaKremer&show_icons=true&title_color=d680ff&icon_color=fff&text_color=80b1ff&bg_color=151515) 
-<br /><br />
+<br />
 [![HitCount](http://hits.dwyl.com/KaylaKremer/KaylaKremer.svg)](http://hits.dwyl.com/KaylaKremer/KaylaKremer)
 ![Followers](https://img.shields.io/github/followers/KaylaKremer?style=flat-square)
 ![Commit Activity](https://img.shields.io/github/commit-activity/w/KaylaKremer/kaylakremer.github.io?style=flat-square)
