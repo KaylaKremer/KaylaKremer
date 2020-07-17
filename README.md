@@ -1,7 +1,7 @@
 [![Kayla Kremer Banner](https://github.com/KaylaKremer/KaylaKremer/blob/master/images/Kayla-Kremer-GitHub.png)](https://www.kaylakremer.com)
 
 ## Hi there, My name is <𝙺𝚊𝚢𝚕𝚊/> <img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/hi.gif" width="30px" alt="waving hand" />
-I'm a front-end developer who loves creative coding! 👩🏼‍💻
+I'm a front-end React developer who loves creative coding! 👩🏼‍💻
 <br />
 
 I've worked professionally in the software industry for 3+ years now and I have a formal fine arts education in videogame design. I love the intersection of where code meets art to create engaging, interactive, and accessible experiences with!
