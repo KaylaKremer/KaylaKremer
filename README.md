@@ -51,17 +51,17 @@ const Kayla = {
 I am currently studying: creative coding with THREE.js and GSAP 3 🎨
 
 ## 🚀 Current Projects
-- My new portfolio site (WIP) 🔜 [kaylakremer.github.io](https://kaylakremer.github.io/#/)
+My new portfolio site (WIP) 🔜 [kaylakremer.github.io](https://kaylakremer.github.io/#/)
 <br />
 <img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/octocat.gif" width="100px" />
 
 ## 💌 Connect with me
 <!-- Icons made by Freepik from www.flaticon.com -->
-<a href="https://www.kaylakremer.com"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/web.png" width="48px" alt="portfolio website" target="_blank" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/kaylakremer/"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/linkedin.png" width="48px" alt="linkedin" target="_blank" /></a>&nbsp;&nbsp;
-<a href="ttps://twitter.com/Kayla_Kremer"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/twitter.png" width="48px" alt="twitter" target="_blank" /></a>&nbsp;&nbsp; 
-<a href="mailto:kremer.kayla@gmail.com"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/email.png" width="48px" alt="gmail" target="_blank" /></a>&nbsp;&nbsp; 
-<a href="https://github.com/KaylaKremer/KaylaKremer/issues"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/conversation.png" alt="github issues" width="48px" target="_blank" /></a>&nbsp;&nbsp;
+<a href="https://www.kaylakremer.com"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/web.png" width="48px" alt="portfolio website" target="_blank" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/kaylakremer/"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/linkedin.png" width="48px" alt="linkedin" target="_blank" /></a>&nbsp;&nbsp;&nbsp;
+<a href="ttps://twitter.com/Kayla_Kremer"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/twitter.png" width="48px" alt="twitter" target="_blank" /></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:kremer.kayla@gmail.com"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/email.png" width="48px" alt="gmail" target="_blank" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/KaylaKremer/KaylaKremer/issues"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/conversation.png" alt="github issues" width="48px" target="_blank" /></a>&nbsp;&nbsp;&nbsp;
 
 ## 📊 Stats
 ![KaylaKremer's github stats](https://github-readme-stats.kaylakremer.vercel.app/api?username=KaylaKremer&show_icons=true&title_color=d680ff&icon_color=fff&text_color=80b1ff&bg_color=151515) 
