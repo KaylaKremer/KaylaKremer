@@ -1,7 +1,8 @@
 [![Kayla Kremer Banner](https://github.com/KaylaKremer/KaylaKremer/blob/master/images/Kayla-Kremer-GitHub.png)](https://www.kaylakremer.com)
 
 ## Hi there, My name is <𝙺𝚊𝚢𝚕𝚊/> <img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/hi.gif" width="30px" alt="waving hand" />
-I'm a front-end developer who loves creative coding! 👩🏼‍💻<br />
+I'm a front-end developer who loves creative coding! 👩🏼‍💻
+<br />
 
 I've worked professionally in the software industry for 3+ years now and I have a formal fine arts education in videogame design. I love the intersection of where code meets art to create engaging, interactive, and accessible experiences with!
 
@@ -48,11 +49,13 @@ const Kayla = {
 ![Illustrator](https://img.shields.io/badge/-Illustrator-%23F37021?style=flat-square&logo=adobe-illustrator&logoColor=%23ffffff)
 
 ## 🎨 Learning 
-Creative coding with: <br /><br />
+**Creative coding with:** 
+<br /><br />
 <img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/creative-coding.png" width="250px"/>
 
-Re-learning Redux with: <br /><br />
-<img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/redux-toolkit.png" width="250px"/>
+**Re-learning Redux with:** 
+<br /><br />
+<img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/redux-toolkit.png" width="230px"/>
 
 ## 🚀 Current Projects
 My new portfolio site (WIP) 🔜 [kaylakremer.github.io](https://kaylakremer.github.io/#/)
@@ -69,7 +72,7 @@ My new portfolio site (WIP) 🔜 [kaylakremer.github.io](https://kaylakremer.git
 
 ## 📊 Stats
 ![KaylaKremer's github stats](https://github-readme-stats.kaylakremer.vercel.app/api?username=KaylaKremer&show_icons=true&title_color=d680ff&icon_color=fff&text_color=80b1ff&bg_color=151515) 
-<br />
+<br /><br />
 [![HitCount](http://hits.dwyl.com/KaylaKremer/KaylaKremer.svg)](http://hits.dwyl.com/KaylaKremer/KaylaKremer)
 ![Followers](https://img.shields.io/github/followers/KaylaKremer?style=flat-square)
 ![Commit Activity](https://img.shields.io/github/commit-activity/w/KaylaKremer/kaylakremer.github.io?style=flat-square)
