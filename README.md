@@ -15,7 +15,7 @@ const Kayla = {
     frontend: ["JavaScript", "HTML5", "CSS3", "Git"],
     backend: ["Node.js", "Ruby on Rails"],
     design: ["PhotoShop", "Illustrator", "Blender"]
-  }
+  },
   favorites: ["React", "TensorFlow.js", "THREE.js", "GSAP3"], 
   hobbies: ["videogames", "art", "traveling", "coding", "Japanese"],
   funFact: "I used to live and work in Japan as an English teacher!"
