@@ -48,12 +48,11 @@ const Kayla = {
 ![Illustrator](https://img.shields.io/badge/-Illustrator-%23F37021?style=flat-square&logo=adobe-illustrator&logoColor=%23ffffff)
 
 ## 🎨 Learning 
-Creative coding with: <br />
-<a href="https://threejs.org/"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/three-js.png" width="150px"/></a>
-<a href="https://greensock.com/"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/gsap.png" width="150px"/></a>
+Creative coding with: <br /><br />
+<img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/creative-coding.png" width="250px"/>
 
-Re-learning Redux with: <br />
-<a href="https://redux-toolkit.js.org/"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/redux-toolkit.png" width="150px"/></a>
+Re-learning Redux with: <br /><br />
+<img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/redux-toolkit.png" width="250px"/>
 
 ## 🚀 Current Projects
 My new portfolio site (WIP) 🔜 [kaylakremer.github.io](https://kaylakremer.github.io/#/)
