@@ -66,7 +66,7 @@ My new portfolio site (WIP) 🔜 [kaylakremer.github.io](https://kaylakremer.git
 <!-- Icons made by Freepik from www.flaticon.com -->
 <a href="https://www.kaylakremer.com"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/web.png" width="48px" alt="portfolio website" target="_blank" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/kaylakremer/"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/linkedin.png" width="48px" alt="linkedin" target="_blank" /></a>&nbsp;&nbsp;&nbsp;
-<a href="ttps://twitter.com/Kayla_Kremer"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/twitter.png" width="48px" alt="twitter" target="_blank" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/Kayla_Kremer"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/twitter.png" width="48px" alt="twitter" target="_blank" /></a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:kremer.kayla@gmail.com"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/email.png" width="48px" alt="gmail" target="_blank" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/KaylaKremer/KaylaKremer/issues"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/conversation.png" alt="github issues" width="48px" target="_blank" /></a>&nbsp;&nbsp;&nbsp;
 
