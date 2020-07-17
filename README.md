@@ -1,6 +1,6 @@
 [![Kayla Kremer Banner](https://github.com/KaylaKremer/KaylaKremer/blob/master/images/Kayla-Kremer-GitHub.png)](https://www.kaylakremer.com)
 
-## Hi there, My name is <𝙺𝚊𝚢𝚕𝚊/> <img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/hi.gif" width="30px" alt="hi" />
+## Hi there, My name is <𝙺𝚊𝚢𝚕𝚊/> <img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/hi.gif" width="30px" alt="waving hand" />
 I'm a front-end developer who loves creative coding! 👩🏼‍💻<br />
 
 I've worked professionally in the software industry for 3+ years now and I have a formal fine arts education in videogame design. I love the intersection of where code meets art to create engaging, interactive, and accessible experiences with!
@@ -12,8 +12,8 @@ const Kayla = {
   education: "Videogame Design",
   skills: {
     frontend: ["JavaScript", "HTML5", "CSS3", "Git"],
-    backend: ["Node.js", "Ruby on Rails"]
-    design: ["PhotoShop, Illustrator, "Blender"],
+    backend: ["Node.js", "Ruby on Rails"],
+    design: ["PhotoShop", "Illustrator", "Blender"]
   }
   favorites: ["React", "TensorFlow.js", "THREE.js", "GSAP3"], 
   hobbies: ["videogames", "art", "traveling", "coding", "Japanese"],
@@ -47,8 +47,13 @@ const Kayla = {
 ![Photoshop](https://img.shields.io/badge/-Photoshop-%2326C9FF?style=flat-square&logo=adobe-photoshop&logoColor=%23ffffff)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-%23F37021?style=flat-square&logo=adobe-illustrator&logoColor=%23ffffff)
 
-## 📖 Learning 
-I am currently studying: creative coding with THREE.js and GSAP 3 🎨
+## 🎨 Learning 
+Creative coding with: <br />
+<a href="https://threejs.org/"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/three-js.png" width="150px"/></a>
+<a href="https://greensock.com/"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/gsap.png" width="150px"/></a>
+
+Re-learning Redux with: <br />
+<a href="https://redux-toolkit.js.org/"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/redux-toolkit.png" width="150px"/></a>
 
 ## 🚀 Current Projects
 My new portfolio site (WIP) 🔜 [kaylakremer.github.io](https://kaylakremer.github.io/#/)
