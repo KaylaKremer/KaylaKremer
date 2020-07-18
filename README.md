@@ -51,16 +51,17 @@ const Kayla = {
 ## 🎨 Learning 
 **Creative coding with:** 
 <br />
-<img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/creative-coding.png" width="250px"/>
+<a href="https://threejs.org/"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/threejs.png" alt="three.js" width="125px" /></a>
+<a href="https://greensock.com/gsap/"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/greensock.png" alt="greensock" width="200px" /></a>
 
 **Re-learning Redux with:** 
 <br />
-<img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/redux-toolkit.png" width="230px"/>
+<img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/redux-toolkit.png" alt="redux toolkit" width="230px"/>
 
 ## 🚀 Current Projects
 My new portfolio site (WIP) 🔜 [kaylakremer.github.io](https://kaylakremer.github.io/#/)
 <br />
-<img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/octocat.gif" width="100px" />
+<a href="https://redux-toolkit.js.org/"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/octocat.gif" width="100px" /></a>
 
 ## 💌 Connect with me
 <!-- Icons made by Freepik from www.flaticon.com -->
