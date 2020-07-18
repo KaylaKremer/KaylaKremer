@@ -56,12 +56,12 @@ const Kayla = {
 
 **Re-learning Redux with:** 
 <br />
-<img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/redux-toolkit.png" alt="redux toolkit" width="230px"/>
+<a href="https://redux-toolkit.js.org/"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/redux-toolkit.png" alt="redux toolkit" width="310px"/></a>
 
 ## 🚀 Current Projects
 My new portfolio site (WIP) 🔜 [kaylakremer.github.io](https://kaylakremer.github.io/#/)
 <br />
-<a href="https://redux-toolkit.js.org/"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/octocat.gif" width="100px" /></a>
+<img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/octocat.gif" width="100px" />
 
 ## 💌 Connect with me
 <!-- Icons made by Freepik from www.flaticon.com -->
