@@ -74,7 +74,13 @@ My new portfolio site (WIP) 🔜 [kaylakremer.github.io](https://kaylakremer.git
 ## 📊 Stats
 ![KaylaKremer's github stats](https://github-readme-stats.kaylakremer.vercel.app/api?username=KaylaKremer&show_icons=true&title_color=d680ff&icon_color=fff&text_color=80b1ff&bg_color=151515) 
 <br />
-[![HitCount](http://hits.dwyl.com/KaylaKremer/KaylaKremer.svg)](http://hits.dwyl.com/KaylaKremer/KaylaKremer)
-![Followers](https://img.shields.io/github/followers/KaylaKremer?style=flat-square)
-![Commit Activity](https://img.shields.io/github/commit-activity/w/KaylaKremer/kaylakremer.github.io?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/KaylaKremer/kaylakremer.github.io?style=flat-square)
+![Followers](https://img.shields.io/github/followers/KaylaKremer?style=flat-square&color=d680ff)
+![Commit Activity](https://img.shields.io/github/commit-activity/w/KaylaKremer/kaylakremer.github.io?style=flat-square&color=d680ff)
+![Last Commit](https://img.shields.io/github/last-commit/KaylaKremer/kaylakremer.github.io?style=flat-square&color=d680ff)
+
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/KaylaKremer/count.svg" alt="" /></td>
+  </tr>
+</table>
