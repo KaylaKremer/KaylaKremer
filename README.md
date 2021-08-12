@@ -72,7 +72,7 @@ My new portfolio site (WIP) 🔜 [kaylakremer.github.io](https://kaylakremer.git
 <a href="https://github.com/KaylaKremer/KaylaKremer/issues"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/conversation.png" alt="github issues" width="48px" target="_blank" /></a>&nbsp;&nbsp;&nbsp;
 
 ## 📊 Stats
-![KaylaKremer's github stats](https://github-readme-stats.kayla-kremer.vercel.app/api?username=KaylaKremer&show_icons=true&title_color=d680ff&icon_color=fff&text_color=80b1ff&bg_color=151515) 
+![KaylaKremer's github stats](https://github-readme-stats.kayla-kremer.vercel.app/api?username=KaylaKremer) 
 <br />
 ![Followers](https://img.shields.io/github/followers/KaylaKremer?style=flat-square&color=d680ff&labelColor=80b1ff)
 ![Commit Activity](https://img.shields.io/github/commit-activity/w/KaylaKremer/kaylakremer.github.io?style=flat-square&color=d680ff&labelColor=80b1ff)
@@ -81,6 +81,6 @@ My new portfolio site (WIP) 🔜 [kaylakremer.github.io](https://kaylakremer.git
 <table>
   <tr>
     <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/KaylaKremer/count.svg" alt="Visitor count" /></td>
+    <td><img src="https://profile-counter.glitch.me/KaylaKremer/count.svg" alt="visitor count" /></td>
   </tr>
 </table>
