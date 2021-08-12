@@ -62,9 +62,11 @@ const Kayla = {
 <a href="https://threejs.org/"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/threejs.png" alt="three.js" width="125px" /></a>
 <a href="https://greensock.com/gsap/"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/greensock.png" alt="greensock" width="200px" /></a>
 
-**Re-learning Redux with:** 
 <br />
-<a href="https://redux-toolkit.js.org/"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/redux-toolkit.png" alt="redux toolkit" width="310px"/></a>
+<a href="https://nextjs.org/"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/nextjs.png" alt="Next.js" width="325px"/></a>
+
+<br />
+<a href="https://graphql.org/"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/graphql.png" alt="GraphQL" width="325px"/></a>
 
 ## 🚀 Current Projects
 My new portfolio site (WIP) 🔜 [kaylakremer.github.io](https://kaylakremer.github.io/#/)
