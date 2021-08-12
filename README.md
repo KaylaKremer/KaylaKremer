@@ -63,7 +63,7 @@ const Kayla = {
 
 <br />
 <br />
-<a href="https://nextjs.org/"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/nextjs.png" alt="Next.js" width="325px"/></a>
+<a href="https://nextjs.org/"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/next-js.png" alt="Next.js" width="325px"/></a>
 
 <br />
 <br />
