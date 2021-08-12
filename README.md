@@ -57,14 +57,15 @@ const Kayla = {
 ![Illustrator](https://img.shields.io/badge/-Illustrator-%23F37021?style=flat-square&logo=adobe-illustrator&logoColor=%23ffffff)
 
 ## 🎨 Learning 
-**Creative coding with:** 
 <br />
-<a href="https://threejs.org/"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/threejs.png" alt="three.js" width="125px" /></a>
+<a href="https://threejs.org/"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/threejs.png" alt="three.js" width="125px" height="130px" /></a>
 <a href="https://greensock.com/gsap/"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/greensock.png" alt="greensock" width="200px" /></a>
 
 <br />
+<br />
 <a href="https://nextjs.org/"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/nextjs.png" alt="Next.js" width="325px"/></a>
 
+<br />
 <br />
 <a href="https://graphql.org/"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/graphql-apollo.png" alt="GraphQL & Apollo" width="325px"/></a>
 
