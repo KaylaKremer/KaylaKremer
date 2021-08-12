@@ -30,18 +30,26 @@ const Kayla = {
 ![JSON](https://img.shields.io/badge/-JSON-%23000000?style=flat-square&logo=json)
 ![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=react&logoColor=%23ffffff) 
 ![Redux](https://img.shields.io/badge/-Redux-%23764ABC?style=flat-square&logo=redux) 
+![Next.js](https://img.shields.io/badge/-NEXT.js-%23000000?style=flat-square&logo=next.js&logoColor=%23ffffff) 
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-%23FF6F00?style=flat-square&logo=tensorflow&logoColor=%23ffffff) 
+![Three.js](https://img.shields.io/badge/-Three.js-%23000000?style=flat-square&logo=three.js&logoColor=%23ffffff) 
 ![GSAP](https://img.shields.io/badge/-GSAP-%2388CE02?style=flat-square&logo=greensock&logoColor=%23ffffff) 
 ![Node](https://img.shields.io/badge/-Node-%23339933?style=flat-square&logo=node.js&logoColor=%23ffffff) 
+<br />
 ![Ruby](https://img.shields.io/badge/-Ruby-%23CC342D?style=flat-square&logo=ruby) 
 ![Rails](https://img.shields.io/badge/-Rails-%23CC0000?style=flat-square&logo=ruby-on-rails) 
-<br />
+![Storybook](https://img.shields.io/badge/-Storybook-%23FF4785?style=flat-square&logo=storybook&logoColor=%23ffffff) 
+![Cypress](https://img.shields.io/badge/-Cypress-%2317202C?style=flat-square&logo=cypress) 
+![GraphQL](https://img.shields.io/badge/-GraphQL-%23E434AA?style=flat-square&logo=graphql&logoColor=%23ffffff) 
+![Apollo](https://img.shields.io/badge/-Apollo-%23311C87?style=flat-square&logo=apollographql&logoColor=%23ffffff) 
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint) 
 ![Prettier](https://img.shields.io/badge/-Prettier-%23F7B93E?style=flat-square&logo=prettier&logoColor=%23ffffff) 
 ![Gulp](https://img.shields.io/badge/-Gulp-%23CF4647?style=flat-square&logo=gulp&logoColor=%23ffffff) 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff) 
 ![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github) 
 ![GitLab](https://img.shields.io/badge/-GitLab-%23FCA121?style=flat-square&logo=gitlab&logoColor=%23ffffff) 
+<br />
+![Jenkins](https://img.shields.io/badge/-Jenkins-%23D24939?style=flat-square&logo=jenkins&logoColor=%23ffffff) 
 ![NPM](https://img.shields.io/badge/-NPM-%23CB3837?style=flat-square&logo=npm) 
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Blender](https://img.shields.io/badge/-Blender-%23F5792A?style=flat-square&logo=blender&logoColor=%23ffffff)
@@ -72,8 +80,9 @@ My new portfolio site (WIP) 🔜 [kaylakremer.github.io](https://kaylakremer.git
 <a href="https://github.com/KaylaKremer/KaylaKremer/issues"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/conversation.png" alt="github issues" width="48px" target="_blank" /></a>&nbsp;&nbsp;&nbsp;
 
 ## 📊 Stats
-![Kayla Kremer's github stats](https://github-readme-stats.kayla-kremer.vercel.app/api?username=KaylaKremer&show_icons=true&title_color=d680ff&icon_color=fff&text_color=80b1ff&bg_color=151515)
+![KaylaKremer's github stats](https://github-readme-stats-kayla-kremer.vercel.app/api?username=KaylaKremer&count_private=true&show_icons=true&border_color=80b1ff&title_color=d680ff&icon_color=d680ff&text_color=80b1ff&bg_color=151515) 
 <br />
+
 ![Followers](https://img.shields.io/github/followers/KaylaKremer?style=flat-square&color=d680ff&labelColor=80b1ff)
 ![Commit Activity](https://img.shields.io/github/commit-activity/w/KaylaKremer/kaylakremer.github.io?style=flat-square&color=d680ff&labelColor=80b1ff)
 ![Last Commit](https://img.shields.io/github/last-commit/KaylaKremer/kaylakremer.github.io?style=flat-square&color=d680ff&labelColor=80b1ff)
