@@ -66,7 +66,7 @@ const Kayla = {
 <a href="https://nextjs.org/"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/nextjs.png" alt="Next.js" width="325px"/></a>
 
 <br />
-<a href="https://graphql.org/"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/graphql.png" alt="GraphQL" width="325px"/></a>
+<a href="https://graphql.org/"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/graphql-apollo.png" alt="GraphQL & Apollo" width="325px"/></a>
 
 ## 🚀 Current Projects
 My new portfolio site (WIP) 🔜 [kaylakremer.github.io](https://kaylakremer.github.io/#/)
