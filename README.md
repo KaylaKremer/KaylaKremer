@@ -4,15 +4,15 @@
 I'm a front-end React developer who loves creative coding! 👩🏼‍💻
 <br />
 
-I've worked professionally in the software industry for 3+ years now and I have a formal fine arts education in videogame design. I love the intersection of where code meets art to create engaging, interactive, and accessible experiences with!
+I've worked professionally in the software industry for 4 years now and I have a formal fine arts education in videogame design. I love the intersection of where code meets art to create engaging, interactive, and accessible experiences with!
 
 ```javascript
 const Kayla = {
   pronouns: "she/her",
-  jobTitle: "Software Engineer",
+  jobTitle: "Software Engineer II",
   education: "Videogame Design",
   skills: {
-    frontend: ["JavaScript", "HTML5", "CSS3", "Git"],
+    frontend: ["JavaScript", "React", "Redux", "HTML5", "CSS3", "Git"],
     backend: ["Node.js", "Ruby on Rails"],
     design: ["PhotoShop", "Illustrator", "Blender"]
   },
