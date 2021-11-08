@@ -34,7 +34,6 @@ const Kayla = {
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-%23FF6F00?style=flat-square&logo=tensorflow&logoColor=%23ffffff) 
 ![Three.js](https://img.shields.io/badge/-Three.js-%23000000?style=flat-square&logo=three.js&logoColor=%23ffffff) 
 ![GSAP](https://img.shields.io/badge/-GSAP-%2388CE02?style=flat-square&logo=greensock&logoColor=%23ffffff) 
-<br />
 ![Node](https://img.shields.io/badge/-Node-%23339933?style=flat-square&logo=node.js&logoColor=%23ffffff) 
 ![Ruby](https://img.shields.io/badge/-Ruby-%23CC342D?style=flat-square&logo=ruby) 
 ![Rails](https://img.shields.io/badge/-Rails-%23CC0000?style=flat-square&logo=ruby-on-rails) 
@@ -47,7 +46,6 @@ const Kayla = {
 ![Gulp](https://img.shields.io/badge/-Gulp-%23CF4647?style=flat-square&logo=gulp&logoColor=%23ffffff) 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff) 
 ![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github) 
-<br />
 ![GitLab](https://img.shields.io/badge/-GitLab-%23FCA121?style=flat-square&logo=gitlab&logoColor=%23ffffff) 
 ![Jenkins](https://img.shields.io/badge/-Jenkins-%23D24939?style=flat-square&logo=jenkins&logoColor=%23ffffff) 
 ![NPM](https://img.shields.io/badge/-NPM-%23CB3837?style=flat-square&logo=npm) 
