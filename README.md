@@ -9,7 +9,8 @@ I've worked professionally in the software industry for 4 years now and I have a
 ```javascript
 const Kayla = {
   pronouns: "she/her",
-  jobTitle: "Software Engineer II",
+  jobTitle: "Frontend Software Engineer",
+  company: "Harvest",
   education: "Videogame Design",
   skills: {
     frontend: ["JavaScript", "React", "Redux", "HTML5", "CSS3", "Git"],
