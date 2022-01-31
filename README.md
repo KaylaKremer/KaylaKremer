@@ -1,7 +1,7 @@
 [![Kayla Kremer Banner](https://github.com/KaylaKremer/KaylaKremer/blob/master/images/Kayla-Kremer-GitHub.png)](https://www.kaylakremer.com)
 
 ## Hi there, my name is <𝙺𝚊𝚢𝚕𝚊/> <img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/hi.gif" width="28px" alt="waving hand" />
-I'm a front-end React developer who loves creative coding! 👩🏼‍💻
+I'm a front-end software engineer who loves creative coding! 👩🏼‍💻
 <br />
 
 I've worked professionally in the software industry for 4 years now and I have a formal fine arts education in videogame design. I love the intersection of where code meets art to create engaging, interactive, and accessible experiences with!
@@ -9,7 +9,7 @@ I've worked professionally in the software industry for 4 years now and I have a
 ```javascript
 const Kayla = {
   pronouns: "she/her",
-  jobTitle: "Frontend Software Engineer",
+  jobTitle: "Software Engineer, Frontend",
   company: "Harvest",
   education: "Videogame Design",
   skills: {
@@ -77,7 +77,7 @@ My new portfolio site (WIP) 🔜 [kaylakremer.github.io](https://kaylakremer.git
 <!-- Icons made by Freepik from www.flaticon.com -->
 <a href="https://www.kaylakremer.com"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/web.png" width="48px" alt="portfolio website" target="_blank" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/kaylakremer/"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/linkedin.png" width="48px" alt="linkedin" target="_blank" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/Kayla_Kremer"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/twitter.png" width="48px" alt="twitter" target="_blank" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/kayla_kremer"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/twitter.png" width="48px" alt="twitter" target="_blank" /></a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:kremer.kayla@gmail.com"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/email.png" width="48px" alt="gmail" target="_blank" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/KaylaKremer/KaylaKremer/issues"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/conversation.png" alt="github issues" width="48px" target="_blank" /></a>&nbsp;&nbsp;&nbsp;
 
