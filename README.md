@@ -1,6 +1,6 @@
 [![Kayla Kremer Banner](https://github.com/KaylaKremer/KaylaKremer/blob/master/images/Kayla-Kremer-GitHub.png)](https://www.kaylakremer.com)
 
-## Hi there, my name is <𝙺𝚊𝚢𝚕𝚊/> <img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/hi.gif" width="28px" alt="waving hand" />
+## Hi there, my name is <𝙺𝚊𝚢𝚕𝚊/> <img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/hi.gif" width="28px" height="28px" alt="waving hand" />
 I'm a front-end software engineer who loves creative coding! 👩🏼‍💻
 <br />
 
