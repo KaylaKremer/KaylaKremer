@@ -27,11 +27,11 @@ const Kayla = {
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=%23ffffff) 
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3) 
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=%23ffffff) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=%23ffffff) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=%23ffffff) 
 ![JSON](https://img.shields.io/badge/-JSON-%23000000?style=flat-square&logo=json)
 ![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=react&logoColor=%23ffffff) 
 ![Redux](https://img.shields.io/badge/-Redux-%23764ABC?style=flat-square&logo=redux) 
-![Next.js](https://img.shields.io/badge/-NEXT.js-%23000000?style=flat-square&logo=next.js&logoColor=%23ffffff) 
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-%23FF6F00?style=flat-square&logo=tensorflow&logoColor=%23ffffff) 
 ![Three.js](https://img.shields.io/badge/-Three.js-%23000000?style=flat-square&logo=three.js&logoColor=%23ffffff) 
 ![GSAP](https://img.shields.io/badge/-GSAP-%2388CE02?style=flat-square&logo=greensock&logoColor=%23ffffff) 
@@ -40,8 +40,6 @@ const Kayla = {
 ![Rails](https://img.shields.io/badge/-Rails-%23CC0000?style=flat-square&logo=ruby-on-rails) 
 ![Storybook](https://img.shields.io/badge/-Storybook-%23FF4785?style=flat-square&logo=storybook&logoColor=%23ffffff) 
 ![Cypress](https://img.shields.io/badge/-Cypress-%2317202C?style=flat-square&logo=cypress) 
-![GraphQL](https://img.shields.io/badge/-GraphQL-%23E434AA?style=flat-square&logo=graphql&logoColor=%23ffffff) 
-![Apollo](https://img.shields.io/badge/-Apollo-%23311C87?style=flat-square&logo=apollographql&logoColor=%23ffffff) 
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint) 
 ![Prettier](https://img.shields.io/badge/-Prettier-%23F7B93E?style=flat-square&logo=prettier&logoColor=%23ffffff) 
 ![Gulp](https://img.shields.io/badge/-Gulp-%23CF4647?style=flat-square&logo=gulp&logoColor=%23ffffff) 
@@ -54,6 +52,7 @@ const Kayla = {
 ![Blender](https://img.shields.io/badge/-Blender-%23F5792A?style=flat-square&logo=blender&logoColor=%23ffffff)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-%2326C9FF?style=flat-square&logo=adobe-photoshop&logoColor=%23ffffff)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-%23F37021?style=flat-square&logo=adobe-illustrator&logoColor=%23ffffff)
+![Ethereum](https://img.shields.io/badge/-Ethereum-%233C3C3D?style=flat-square&logo=ethereum&logoColor=%23ffffff)
 
 ## 🎨 Learning 
 <br />
