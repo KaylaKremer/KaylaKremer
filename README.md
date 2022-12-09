@@ -1,23 +1,23 @@
 [![Kayla Kremer Banner](https://github.com/KaylaKremer/KaylaKremer/blob/master/images/GitHub-Header.png)](https://www.kaylakremer.com)
 
 ## Hi there, my name is <𝙺𝚊𝚢𝚕𝚊/> <img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/hi.gif" width="28px" height="28px" alt="waving hand" />
-I'm a frontend (React) software engineer who loves creative coding! 👩🏼‍💻
+I'm a frontend (React/React Native) software engineer who loves creative coding! 👩🏼‍💻
 <br />
 
 I've worked professionally in the software industry for 5 years now and I have a formal fine arts education in videogame design. I love the intersection of where code meets art to create engaging, interactive, and accessible experiences with!
 
 ```javascript
 const Kayla = {
-  pronouns: "she/her",
+  pronouns: "She/Her",
   jobTitle: "Software Engineer, Frontend",
   company: "Harvest",
   education: "Videogame Design",
   skills: {
-    frontend: ["JavaScript", "React", "Redux", "HTML5", "CSS3", "Git"],
+    frontend: ["JavaScript", "React/React Native", "Redux Toolkit", "HTML5", "CSS3", "Git"],
     backend: ["Node.js", "Ruby on Rails"],
     design: ["PhotoShop", "Illustrator", "Blender"]
   },
-  favorites: ["React", "TensorFlow.js", "THREE.js", "GSAP3"], 
+  favorites: ["React/React Native", "TensorFlow.js", "THREE.js", "GSAP3"], 
   hobbies: ["videogames", "art", "traveling", "coding", "Japanese"],
   funFact: "I used to live and work in Japan as an English teacher!"
 };
