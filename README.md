@@ -4,12 +4,12 @@
 I'm a frontend (React/React Native) software engineer who loves creative coding! 👩🏼‍💻
 <br />
 
-I've worked professionally in the software industry for 5 years now and I have a formal fine arts education in videogame design. I love the intersection of where code meets art to create engaging, interactive, and accessible experiences with!
+I've worked professionally in the tech industry for 5+ years now and I have a formal fine arts education in videogame design. I love the intersection of where code meets art to create engaging, interactive, and accessible experiences with!
 
 ```javascript
 const Kayla = {
   pronouns: "She/Her",
-  jobTitle: "Software Engineer, Frontend",
+  jobTitle: "Frontend Software Engineerd",
   company: "Harvest",
   education: "Videogame Design",
   skills: {
