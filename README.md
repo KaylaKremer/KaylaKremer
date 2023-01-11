@@ -9,7 +9,7 @@ I've worked professionally in the tech industry for 5+ years now and I have a fo
 ```javascript
 const Kayla = {
   pronouns: "She/Her",
-  jobTitle: "Frontend Software Engineerd",
+  jobTitle: "Frontend Software Engineer",
   company: "Harvest",
   education: "Videogame Design",
   skills: {
