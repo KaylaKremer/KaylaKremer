@@ -71,7 +71,7 @@ My new portfolio site (WIP) 🔜 [kaylakremer.github.io](https://kaylakremer.git
 <a href="https://www.linkedin.com/in/kaylakremer/"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/linkedin.png" width="48px" alt="linkedin" target="_blank" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/kayla_kremer"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/twitter.png" width="48px" alt="twitter" target="_blank" /></a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:kremer.kayla@gmail.com"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/email.png" width="48px" alt="gmail" target="_blank" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/KaylaKremer/KaylaKremer/issues"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/conversation.png" alt="github issues" width="48px" target="_blank" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/KaylaKremer/KaylaKremer/discussions/categories/q-a"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/conversation.png" alt="github issues" width="48px" target="_blank" /></a>&nbsp;&nbsp;&nbsp;
 
 ## 📊 Stats
 ![KaylaKremer's github stats](https://github-readme-stats-kayla-kremer.vercel.app/api?username=KaylaKremer&count_private=true&show_icons=true&border_color=80b1ff&title_color=d680ff&icon_color=d680ff&text_color=80b1ff&bg_color=151515) 
